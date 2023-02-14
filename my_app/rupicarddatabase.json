@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rupicarddatabase",
+  "private_key_id": "8226a6e6e708a7a390e99bfa2f81e3fa57252719",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC00R+dzZSnOjUz\ni/p5wh4zjnSz5AqZ51jyIGCu7giywUU06uOLDgeXPIkLqde16wMWjrV5BQec2bGM\n7DrW85klMRLKsPKFMQq6HjMYOd5h0PyDA/56Z1n8/mH6bnqTf3mpLdYqxLenKryp\ngECxM29IlXC71Ud6BmVIC508iaIFifW2RNUa9AMYLsbc3gb1w7eEDwE/D2WKYHZ+\nCRvrwrWCXG+0HSBYUDzx0EPA0Cg64wUFvNPyo3Ujq1hDQoKmUObKAk1/sPCN/iB8\ngfwGSnBB/IYQd0eoKyMNy5VbvAx6nwBciuk1XAgjTA7b9/9PVc/GQ+K5TpBmYuBb\n7Dc9PAFdAgMBAAECgf8digx4Zd7dcvSTYHhXxuGDOwyLwvm0H4NuFjcKoS3QSmH+\nToNmYbErakaHfyDxkZVKl0RjqL5XDwB7FkoUvOpH9fVJd1qZKTD91ioQ8vF4U2H+\nSaMQUMECCzd5S7r+8Zt3DarplgZfX60MMV8WPoQRvfHJRlh9uP+I3FF+U781bG62\nNHftHhOxDNEMh6JIL+bZSwHE0vFMDNYjksxcnJwcL82BBZ1cGXmhMW6kopp7y/ng\nOk6u/fOqtBpdSqJD5R2QahURFzynXQbTou8dbIcxrD6XWrsmINd7JtZqdS2X6wgz\n5rRkum2IucVURfz86fz8cyQOVN+cvCEoXJzjdMECgYEA4JXXA28yyn+iFgkRi6qf\nRpAvdek2A20N8FBA695cjMeTxZ9dGWU3p/H20LFyCCLL3x9Bg7TLzusgBhh0PTYK\n0Pw/119twIf5g8u34M3qRUwhMeq5tmjV35ezjb6XWEznjDTQmfp6hB8RyKY0c+N+\nhOskiSWqs8zTgUK2MkTD8SUCgYEAzhv7rcX1Kdl4/B+e8zIe9rfINwdyAIX4eVK4\nYoGjrj2pXiroPo9e1Gmq9UlyPoRdhCEVzhBYhVnNwBFnCdohEX9LSoJdnzlMNpiZ\nPcvP/Uglf7EJiYqZmwEm8lIEo4rZcLHuKG1qxVXa9VjcIGbcvkXOUU/dScOtPtaL\nN0OtZdkCgYEA08hZFxMAWXbceV0Z35QJWLhVGSLPXZG0SD7VyddJfTQixIRQfcc2\nIbiJ4CjE+KkfiYtm83VFkB2neDgNPT++GW8WINoLnDhdcgxknKhxV+G/l9vaPwpD\nTPM4Td1ByPHUlCGl6N4MNJU75vPcmMAZqew36uDLRXxMoyMuvt6by8UCgYB6OK/b\nUWtbgMG0yM+KKaug5ETPFRQuaUN6Nmpux6+XcKtR0yHbj0tNrMebIw2jMvz9kF0M\n0DaeBS30ep1eg0JezNyJ95qrA+BE8+LTeVwCN1k9Sm98Z3tFJr7ArZBgpsLgiDLR\nOGk7UflAyovmjvjRwDVjlHeF+Ypvm+v8Pp7BqQKBgQCjjYPQSl8NInPJwZmCke3Q\nHe2u3XEcPwfwZMPoOfrupJfKOJzwgKussJYIR3QwAs42HP/AvaZv+YnnTPmR7Ozo\nhuJiFZ31K9C5Q2yTOWfvD+3CaTuAn760mjyKIGvH+lQDr03eVN1yDwvVbmLE4Ti5\n2HB6vdVJd7YgvM5pzkosbg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-97@rupicarddatabase.iam.gserviceaccount.com",
+  "client_id": "117162767548439465245",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-97%40rupicarddatabase.iam.gserviceaccount.com"
+}
